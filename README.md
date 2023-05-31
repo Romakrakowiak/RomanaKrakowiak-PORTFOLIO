@@ -15,4 +15,8 @@
 * Slack - for communication within the team
 * Github
 
+## MY PROJECTS 
 
+* [TEST CASES](https://docs.google.com/document/d/1jdpUBpNXp3J7NE1vDLoO6FnS4LZhMGLGOrfBiNSC9A0/edit)
+* [TEST REPORT](https://docs.google.com/document/d/1QyetxdFaz0JCLjLLoWMStUinxhV30SAoRlW6ysbDxCU/edit)
+* 
