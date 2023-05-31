@@ -19,4 +19,6 @@
 
 * [TEST CASES](https://docs.google.com/document/d/1jdpUBpNXp3J7NE1vDLoO6FnS4LZhMGLGOrfBiNSC9A0/edit)
 * [TEST REPORT](https://docs.google.com/document/d/1QyetxdFaz0JCLjLLoWMStUinxhV30SAoRlW6ysbDxCU/edit)
+* [BUG REPORT](https://docs.google.com/spreadsheets/d/1SETxbfKJBHUZmMRifgrrXUF_OBaIBsBoTS6uFuHjNiI/edit#gid=0)
+* [BUG REPORT](https://docs.google.com/spreadsheets/d/1rSRW35-9pfSoOcB_drmOOjtvvaaFYgvbP6NCciWuFVw/edit#gid=0)
 * 
