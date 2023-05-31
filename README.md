@@ -18,7 +18,9 @@
 ## MY PROJECTS 
 
 * [TEST CASES](https://docs.google.com/document/d/1jdpUBpNXp3J7NE1vDLoO6FnS4LZhMGLGOrfBiNSC9A0/edit)
+* [TEST CASES TESTRAIL](https://drive.google.com/drive/folders/1LNbQtl636UShgRdCtvl0KZ6PdGDii2Tz)
 * [TEST REPORT](https://docs.google.com/document/d/1QyetxdFaz0JCLjLLoWMStUinxhV30SAoRlW6ysbDxCU/edit)
+* [BUG REPORTS - JIRA](https://drive.google.com/drive/folders/1F5O7AmZrgiWSRw0gangHuRbI9aD7ZDXz)
 * [BUG REPORT](https://docs.google.com/spreadsheets/d/1SETxbfKJBHUZmMRifgrrXUF_OBaIBsBoTS6uFuHjNiI/edit#gid=0)
 * [BUG REPORT](https://docs.google.com/spreadsheets/d/1rSRW35-9pfSoOcB_drmOOjtvvaaFYgvbP6NCciWuFVw/edit#gid=0)
-* 
+
