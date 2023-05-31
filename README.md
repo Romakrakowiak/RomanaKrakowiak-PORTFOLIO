@@ -24,3 +24,11 @@
 * [BUG REPORT](https://docs.google.com/spreadsheets/d/1SETxbfKJBHUZmMRifgrrXUF_OBaIBsBoTS6uFuHjNiI/edit#gid=0)
 * [BUG REPORT](https://docs.google.com/spreadsheets/d/1rSRW35-9pfSoOcB_drmOOjtvvaaFYgvbP6NCciWuFVw/edit#gid=0)
 
+## CERTIFICATE
+
+* Manual Tester Course from DARE IT
+* Practical software tester course from UDEMY.
+
+## HELPFULL BLOGS 
+
+*
