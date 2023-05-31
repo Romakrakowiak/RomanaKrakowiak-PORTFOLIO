@@ -31,4 +31,9 @@
 
 ## HELPFULL BLOGS 
 
-*
+* https://pwicherski.gitbook.io/testowanie-oprogramowania/od-czego-zaczac
+* http://cherry-it.pl/
+* https://www.cognity.pl/sql-podstawy-skladnia-i-zastosowanie,blog,388.html
+
+## [MY LINKEDIN](https://www.linkedin.com/in/romana-krakowiak-7239a8209/)
+
