@@ -8,4 +8,11 @@
 ## TOOLS
 
 * Jira - bug tracker 
-* 
+* TestRail - test cases management
+* Chrome DevTools - for testing and to improve bug reports
+* MySQL - relational database management system
+* Postman - testing tool for REST API
+* Slack - for communication within the team
+* Github
+
+
