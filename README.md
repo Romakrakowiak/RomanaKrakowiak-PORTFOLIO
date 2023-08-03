@@ -3,7 +3,7 @@
 
 ## ABOUT ME
 
->_My name is ROMANA KRAKOWIAK. I am Financial Operations Specialist and I've been working on this position for more then two years. Recently I decided to change my qualifications and to become a software tester. This is something comletely new for me and I'm very excited about this position. After spending a plenty of time on youtube and other websites trying to learn more about testing I've decided to make a cource and that was one of the best decisions._
+>_My name is ROMANA KRAKOWIAK. I am Financial Operations Specialist and I've been working on this position for more then two years. Recently I decided to change my qualifications and to become a software tester. After spending a plenty of time on youtube and other websites trying to learn more about testing I've decided to make a cource and that was one of the best decisions. This is something comletely new for me and I'm very excited about this position._
 
 ## TOOLS
 
